@@ -1,0 +1,11 @@
+<group>
+	<Min_area>2</Min_area>
+	<Max_area>20</Max_area>
+	<Persistance>50</Persistance>
+	<Max_distance>100</Max_distance>
+	<Threshold>249</Threshold>
+	<Calculate_Bike_Point>0</Calculate_Bike_Point>
+<group/>
+<Color_Image_Pos>-159.184, 61.2245</Color_Image_Pos>
+	<Color_Image_Size>254.082, -126.531</Color_Image_Size>
+</group>
